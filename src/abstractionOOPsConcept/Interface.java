@@ -12,7 +12,7 @@ public interface Interface
 	public static void main(String[] args) 
 	{
 		
-		method6();
+		method7();
 	}
 
 }
